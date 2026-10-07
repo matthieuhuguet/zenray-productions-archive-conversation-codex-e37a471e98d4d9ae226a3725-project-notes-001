@@ -1,0 +1,39 @@
+{
+ "schemaVersion": 1,
+ "projectId": "conversation-codex-e37a471e98d4d9ae226a3725",
+ "scannedAt": "2026-10-07T08:30:25.776Z",
+ "conversations": [
+  {
+   "projectId": "conversation-codex-e37a471e98d4d9ae226a3725",
+   "lines": 66,
+   "work": 40,
+   "prompts": 0,
+   "first": "2026-10-05T10:29:03.654Z",
+   "last": "2026-10-05T10:38:54.496Z",
+   "strength": "strong",
+   "conversationId": "codex:01a10b9b-9119-7483-81d0-f832130bd804",
+   "provider": "codex",
+   "sessionId": "01a10b9b-9119-7483-81d0-f832130bd804",
+   "title": "Conversation codex 01a10b9b",
+   "updatedAt": "2026-10-05T10:39:02.564Z",
+   "bytes": 8826778,
+   "boundProject": "conversation-codex-e37a471e98d4d9ae226a3725"
+  },
+  {
+   "projectId": "conversation-codex-e37a471e98d4d9ae226a3725",
+   "lines": 2,
+   "work": 1,
+   "prompts": 0,
+   "first": "2026-10-05T21:26:18.979Z",
+   "last": "2026-10-05T21:26:19.073Z",
+   "strength": "weak",
+   "conversationId": "codex:01a10bce-5162-72a0-b738-4ec8574e1ddc",
+   "provider": "codex",
+   "sessionId": "01a10bce-5162-72a0-b738-4ec8574e1ddc",
+   "title": "Conversation codex 01a10bce",
+   "updatedAt": "2026-10-06T20:31:27.870Z",
+   "bytes": 224423743,
+   "boundProject": "vegetation-assets-collection-01"
+  }
+ ]
+}
